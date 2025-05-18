@@ -1,2 +1,2 @@
-# OqosGameCoder
+# OqosGameCoder.github.io
 игра с выбором 
